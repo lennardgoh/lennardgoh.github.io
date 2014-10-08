@@ -10,6 +10,9 @@
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
+          {% for page in site.pages_list %}
+              &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+          {% endfor %}
         </h3>
         <h6 class="masthead-title">
           <a href="/about"><font size = "2"><i>About Me</i></font></a>
