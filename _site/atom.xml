@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Lennard Goh</title>
- <link href="http://lennardgoh.github.io/atom.xml" rel="self"/>
- <link href="http://lennardgoh.github.io/"/>
- <updated>2014-10-08T01:19:33-04:00</updated>
- <id>http://lennardgoh.github.io</id>
+ <title>Lanyon</title>
+ <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://lanyon.getpoole.com/"/>
+ <updated>2014-10-08T16:35:53-04:00</updated>
+ <id>http://lanyon.getpoole.com</id>
  <author>
-   <name>Lennard Goh</name>
-   <email>lennardgoh@gmail.com</email>
+   <name>Mark Otto</name>
+   <email></email>
  </author>
 
  
  <entry>
    <title>Introducing Poole</title>
-   <link href="http://lennardgoh.github.io//introducing-poole"/>
+   <link href="http://lanyon.getpoole.com/introducing-poole"/>
    <updated>2014-01-02T00:00:00-05:00</updated>
-   <id>http://lennardgoh.github.io/introducing-poole</id>
+   <id>http://lanyon.getpoole.com/introducing-poole</id>
    <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel&amp;#39;s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll&amp;#39;s loyal butler.&lt;/p&gt;
 
 &lt;hr&gt;
@@ -61,9 +61,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://lennardgoh.github.io//example-content"/>
+   <link href="http://lanyon.getpoole.com/example-content"/>
    <updated>2014-01-01T00:00:00-05:00</updated>
-   <id>http://lennardgoh.github.io/example-content</id>
+   <id>http://lanyon.getpoole.com/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -207,9 +207,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://lennardgoh.github.io//whats-jekyll"/>
+   <link href="http://lanyon.getpoole.com/whats-jekyll"/>
    <updated>2013-12-31T00:00:00-05:00</updated>
-   <id>http://lennardgoh.github.io/whats-jekyll</id>
+   <id>http://lanyon.getpoole.com/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
