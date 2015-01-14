@@ -4,21 +4,25 @@ pygments:         true
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Lennard Goh
 tagline:          Personal Page
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://lennardgoh.github.io
-
-author:
-  name:           'Lennard Goh'
-  url:            https://twitter.com/lennardgoh
-
 paginate:         1
+baseurl:          /
+author:
+  name:           Lennard Goh
+  url:            https://twitter.com/lennardgoh
+  email:          lennardgoh@gmail.com
 
 # Custom vars
 version:          1.0.0
-
 github:
   repo:           https://github.com/lennardgoh/lennardgoh.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
