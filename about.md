@@ -3,28 +3,23 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am a recent Aerospace Engineering graduate currently looking to enter the industry or pursue a PhD in CFD (Computational Fluid Dynamics). I have always been fascinated with problem solving and engineering design and hope I get the opportunity to work on interesting projects. The purpose of this website is to showcase the projects that I have taken up as well as share some insights and opinions on topics I find interesting.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Prior to this, I got my Master's and Bachelor's degrees in Aerospace Engineering from the Universiy of Michigan (Go Blue!), specializing in fluid dynamics and CFD. My academic areas of interest are in the following:
 
-There are currently two themes built on Poole:
+* Adaptive mesh generation for CFD
+* Efficient algorithms in CFD
+* Simulating high speed compressible flows
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+In my spare time I enjoy listening to music, watching movies, and reading up my topics/things that interest me. Some of said topics are in:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* Consumer Technology
+* Audiophile equipment
+* Sports Cars
+* Horological Timepieces
+* College Sports
+* Tennis
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+If you have any comments or would like to contact me for any reason, just drop me an email.
 
 Thanks for reading!
