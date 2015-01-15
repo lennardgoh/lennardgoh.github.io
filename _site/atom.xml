@@ -4,7 +4,7 @@
  <title>Lennard Goh</title>
  <link href="http://lennardgoh.github.io/atom.xml" rel="self"/>
  <link href="http://lennardgoh.github.io/"/>
- <updated>2015-01-15T13:50:32-05:00</updated>
+ <updated>2015-01-15T14:00:42-05:00</updated>
  <id>http://lennardgoh.github.io</id>
  <author>
    <name>Lennard Goh</name>
@@ -19,7 +19,7 @@
    <id>http://lennardgoh.github.io/hello-world</id>
    <content type="html">&lt;p&gt;Before this began, I was spoilt for choice as to where I should host this site. Should I revert back to simpler old blogging platforms like wordpress or blogger? Should I build this site from scratch with the limited html and css skills which I have? It would be nice to have the freedom of customization/control of html while still not over-complicating this little project of website which I would like to take up. &lt;a href=&quot;http://pages.github.com&quot;&gt;Github pages&lt;/a&gt; was the clear choice for me.&lt;/p&gt;
 
-&lt;p&gt;I have always been a fan of Github and their open source policies. I somehow chanced upon their free Github pages service to host this page for all users. Together with &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;http://github.com/poole/poole&quot;&gt;Poole&lt;/a&gt;, the whole idea of hosting this site as a bunch of static files on my computer caught my eye. So here are some of the advantages of this system that led to my decision.&lt;/p&gt;
+&lt;p&gt;I have always been a fan of Github and their open source policies. I somehow chanced upon their free Github pages service to host this page for all users. Together with &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;http://github.com/poole/poole&quot;&gt;Poole&lt;/a&gt;, the whole idea of hosting this site as a bunch of static files on my computer caught my eye. So here are some of the advantages of this system that led to this decision.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Since the static files are located on my computer, I can easily work on this site offline and push it to Github once internet access is available.&lt;/li&gt;
@@ -27,6 +27,8 @@
 &lt;li&gt;Simple Markdown format for content input means I can focus on the content rather than the html/css&lt;/li&gt;
 &lt;li&gt;Beautiful minimalist theme.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;So far I&amp;#39;m loving this combination of Github pages, Jekyll and poole. I might post a quick tutorial for creating your own static site in the near future if you are interested in creating a site of your own too. Stay tuned.&lt;/p&gt;
 </content>
  </entry>
  
