@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-->![placeholder](http://lennardgoh.github.io/images/aboutMe.jpg "Me and my parents at my Graduation Ceremony")<-
+![placeholder](http://lennardgoh.github.io/images/aboutMe.jpg "Me and my parents at my Graduation Ceremony")
 
 I am a recent Aerospace Engineering graduate currently looking to enter the industry or pursue a PhD in CFD (Computational Fluid Dynamics). I have always been fascinated with problem solving and engineering design and hope I get the opportunity to work on interesting projects. The purpose of this website is to showcase the projects that I have taken up as well as share some insights and opinions on topics I find interesting.
 
