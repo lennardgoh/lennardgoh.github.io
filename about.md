@@ -16,7 +16,7 @@ Prior to this, I got my Master's and Bachelor's degrees in Aerospace Engineering
 In my spare time I enjoy listening to music, watching movies, and reading up my topics/things that interest me. Some of said topics are in:
 
 * Consumer Technology
-* Audiophile equipment
+* Audiophile Equipment
 * Sports Cars
 * Horological Timepieces
 * College Sports
