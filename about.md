@@ -21,6 +21,7 @@ In my spare time I enjoy listening to music, watching movies, and reading up my 
 * Horological Timepieces
 * College Sports
 * Tennis
+* Comics
 
 If you have any comments or would like to contact me for any reason, just drop me an email.
 
